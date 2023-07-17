@@ -18,7 +18,7 @@ Rashwanth-Website is a launch countdown site with a visually appealing design, c
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Website-launch-countdown/
+    https://rashwanthashok.github.io/Webpage-launch-countdown/
 ## Getting Started
 
 To get started with the Rashwanth-Website launch countdown, follow these steps:
