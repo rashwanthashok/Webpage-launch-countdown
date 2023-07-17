@@ -90,7 +90,8 @@ Note: The provided code offers a foundation for a visually appealing countdown s
 - Easy Customization: Modify the content, styling, and countdown date in the code to fit your needs.
 
 
-
+## Deployment status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e6fd14f9-7045-4b10-a525-ec3625af56e4/deploy-status)](https://app.netlify.com/sites/jsprojects21-webpage-launch-countdown/deploys)
 
 
 ## Contributing
